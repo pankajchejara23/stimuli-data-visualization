@@ -12,12 +12,12 @@ There are two types of visualization are generate. Type-1 showing data in dots f
 
 **Type-1 plot**
 
-![type_1_experiment_2](/Users/pankaj/Documents/Blog/sunil/type-1/type_1_experiment_2.png)
+![type_1_experiment_2](./type-1/type_1_experiment_2.png)
 
 **Type-2 plot**
 
-![type_2_experiment_4](/Users/pankaj/Documents/Blog/sunil/type-2/type_2_experiment_4.png)
+![type_2_experiment_4](./type-2/type_2_experiment_4.png)
 
 **Type-2 plot for all experiments**
 
-![type_2_all_experiment_verticle](/Users/pankaj/Documents/Blog/sunil/type_2_all_experiment_verticle.png)
+![type_2_all_experiment_verticle](./type_2_all_experiment_verticle.png)
