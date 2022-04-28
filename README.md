@@ -21,3 +21,7 @@ There are two types of visualization are generate. Type-1 showing data in dots f
 **Type-2 plot for all experiments**
 
 ![type_2_all_experiment_verticle](./type_2_all_experiment_verticle.png)
+
+**Type-3 Plot**
+
+![type_3_all_experiment_60S](./type-3/type_3_all_experiment_60S.png)
